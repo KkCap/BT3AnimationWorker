@@ -12,7 +12,7 @@ It is "work in progress"... Let's say a pre-beta... but it should work! :D<br />
 Let me know if you find bugs.
 
 ## How to download it
-You will found pre-packaged ".exe" files for Windows and the source code of major versions in the "release" section as soon as the first major release will be a thing. In the meanwhile, you can clone simply this repository (branch Master).
+You will found pre-packaged ".exe" files for Windows and the source code of major versions in the "release" section as soon as the first major release will be a thing. In the meanwhile, you can clone simply this repository (branch main).
 
 ## How to run it
 You can run this tool on any platform that supports Python 3. The tool was tested with Python 3.7.<br />
