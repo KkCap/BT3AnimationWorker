@@ -4,8 +4,8 @@
 ## Features
 This tool can:
 - Change the speed of an animation
-- Join two animationa together (one after the other)
-- Mix two animationa together (import single bone animations from one to another)
+- Join two animations together (one after the other)
+- Mix two animations together (import single bone animations from one to another)
 
 ## Current state of the project
 It is "work in progress"... Let's say a pre-beta... but it should work! :D<br />
